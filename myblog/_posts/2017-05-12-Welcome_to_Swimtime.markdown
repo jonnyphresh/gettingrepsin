@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to swimlogiX™"
+title:  "Welcome to SwimlogiX™"
 date:   2017-05-12 18:27:32 -0700
 categories: jekyll update
 ---
